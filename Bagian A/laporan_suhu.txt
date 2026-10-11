@@ -1,0 +1,14 @@
+=== LAPORAN SUHU MINGGUAN ===
+Rata-rata suhu   : 31.14 C
+Suhu tertinggi   : 35.0 C (Kamis)
+Suhu terendah    : 28.0 C (Minggu)
+Jumlah hari panas: 3
+
+Detail:
+- Senin: 31.0 C [Normal]
+- Selasa: 33.0 C [Panas]
+- Rabu: 29.0 C [Normal]
+- Kamis: 35.0 C [Panas]
+- Jumat: 32.0 C [Panas]
+- Sabtu: 30.0 C [Normal]
+- Minggu: 28.0 C [Normal]
