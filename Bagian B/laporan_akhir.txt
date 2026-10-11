@@ -1,0 +1,15 @@
+=== LAPORAN INVENTARIS TOKO ===
+Total jenis barang : 4
+Total nilai stok   : Rp 61,200,000
+Barang termahal    : Laptop
+
+Urutan harga termahal ke termurah:
+- Laptop: Rp 8,000,000 (stok 5)
+- Monitor: Rp 2,000,000 (stok 10)
+- Headset: Rp 300,000 (stok 3)
+- Mouse: Rp 150,000 (stok 2)
+
+Stok kritis (<= 5):
+- Headset: sisa 3
+- Mouse: sisa 2
+- Laptop: sisa 5
